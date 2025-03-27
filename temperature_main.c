@@ -96,7 +96,7 @@ int main() {
     }
 
     //Display results by displaying "Converted temperature: " with the converted_temp, and conv passed in.
-    printf("Converted Temperature: %.2f %s\n", converted_temp, conv);
+    printf("Converted Temperature: %.2f %s\n", converted_temp);
 
     //Determine the Celsius equivalent for categorization
     //Float variable called "celsius_equivalent"
