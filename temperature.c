@@ -12,7 +12,7 @@ float celsius_to_fahrenheit(float celsius)
 float fahrenheit_to_celsius(float fahrenheit)
 {
     //Returns the conversion of fahrenheit to celsius.
-    return (fahrenheit -32) * (5/9);
+    return (fahrenheit -32) * (5.0/9);
 }
 
 //Function called "celsius_to_kelvin" which takes in a floating variable called "celsius" as a parameter.
