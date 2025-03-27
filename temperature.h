@@ -35,4 +35,6 @@ float celsius_to_kelvin(float celsius);
  */
 float kelvin_to_celsius(float celsius);
 
+void categorize_temperature(float celsius); 
+
 #endif /* __REPORT_H__ */
