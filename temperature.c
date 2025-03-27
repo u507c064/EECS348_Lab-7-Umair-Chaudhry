@@ -1,4 +1,5 @@
 #include "temperature.h"
+#include <stdio.h>
 
 //Function called "celsius_to_fahrenheit" which takes in a floating variable called "celsius" as a parameter.
 float celsius_to_fahrenheit(float celsius)
